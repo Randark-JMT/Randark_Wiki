@@ -2,7 +2,7 @@
 title: 图像碎片
 description: 
 published: true
-date: 2022-06-17T07:23:04.987Z
+date: 2022-07-03T01:04:23.344Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-04T01:31:46.533Z
@@ -12,8 +12,8 @@ dateCreated: 2022-06-04T01:31:46.533Z
 
 ## 只给出碎片
 
-> 例题：[MRCTF2020-不眠之夜](https://buuoj.cn/challenges#%5BMRCTF2020%5D%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C)
-{.is-info}
+- [MRCTF2020-不眠之夜 *最经典的图像碎片题*](https://buuoj.cn/challenges#%5BMRCTF2020%5D%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C)
+{.links-list}
 
 
 首先，将会用到两个工具：

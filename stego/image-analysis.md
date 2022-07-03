@@ -2,7 +2,7 @@
 title: 图片分析
 description: 
 published: true
-date: 2022-07-03T00:39:23.996Z
+date: 2022-07-03T01:02:15.655Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-04T01:31:00.162Z
@@ -36,5 +36,5 @@ dateCreated: 2022-06-04T01:31:00.162Z
 # 图像碎片
 
 在一些特殊情况下，可能会发现图片被划分成碎片，并且碎片之间发生错位，那么就需要寻找工具来寻找合适的方案来还原图像，或者提取对应的数据。
-- [图像碎片](/stego/image-analysis)
+- [fragments](/stego/image-analysis/fragments)
 {.links-list}

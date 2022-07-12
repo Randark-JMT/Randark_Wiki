@@ -2,13 +2,12 @@
 title: 内存取证
 description: 
 published: true
-date: 2022-07-12T13:32:24.846Z
+date: 2022-07-12T13:34:58.522Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T01:28:40.096Z
 ---
 
-# 内存取证
 内存取证是针对靶机的内存镜像进行取证分析，其中最常用到的工具便是`Volatility`，是一个开源的内存取证框架。内存取证的核心便是针对进程列表进行分析，并结合题目题干查询敏感数据。
 
 针对内存取证，实战中第一步就是针对靶机的内存提取，对Windows来说，可以通过`DumpIt.exe`来实现，而Linux和Macos则需要使用 [lmg](https://github.com/halpomeranz/lmg) 和 `dwarfdump` 来实现。而在安全研究和CTF比赛中，内存镜像也有可能是从`VMware`虚拟机快照文件中所提取出来的。虽然文件的结构和取材途径不同，但是其中的内存数据都是一致的，也都可以利用Volatility来进行分析。
@@ -22,3 +21,8 @@ dateCreated: 2022-07-11T01:28:40.096Z
 - [获取Volatility](/forensic/memory-analysis/install_volatility)
 - [狼组安全团队公开知识库-Volatility取证分析工具](https://wiki.wgpsec.org/knowledge/ctf/Volatility.html)
 {.links-list}
+
+# 内存镜像分析基本流程
+## 确定平台和内核版本
+## 初步信息收集
+## 常见的敏感进程

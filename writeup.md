@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-07-17T03:59:56.621Z
+date: 2022-07-17T04:27:20.700Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -44,6 +44,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 
 ## NISACTF 2022
 - 2022-03-25
+- [NISACTF2022 Official WP *请使用“规则”模式打开代理后再访问*](https://fjnusec.cn/2022/03/29/NISACTF2022-Official-WP/)
 - [NISA 2022 Writeup by WDLJT - 问谛居](https://www.wd-ljt.com/post/0329/799.html#nisactf-2022-sign-ezc)
 {.links-list}
 

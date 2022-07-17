@@ -2,7 +2,7 @@
 title: 图像隐写相关工具
 description: 
 published: true
-date: 2022-07-17T01:55:17.226Z
+date: 2022-07-17T01:58:03.841Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T01:55:17.226Z
@@ -15,8 +15,7 @@ dateCreated: 2022-07-17T01:55:17.226Z
 Github项目地址：[https://github.com/Giotino/stegsolve](https://github.com/Giotino/stegsolve)
 
 这个工具应该讲图片隐写的时候是必须讲的，因为这个工具即可以实现图片单颜色通道的可视化查看，也实现了两张图片之间的交叉比对、结构数据检查、GIF逐帧查看等等。基本用于初步的图像分通道检查。
-
-![javaw_qfewo6lyzr.png](/javaw_qfewo6lyzr.png)
+![c11b508c-ec44-4561-bd15-6c8012c5c5b1.png](/c11b508c-ec44-4561-bd15-6c8012c5c5b1.png)
 
 # pillow
 
@@ -110,13 +109,12 @@ PARAMS SHORTCUT
 
 `jphide`算是`jpg`格式中最为常见的隐写方式，jphs则是在Windows平台支持分析`jphide`的软件。
 
-![Untitled](%E5%B7%A5%E5%85%B7%E7%B1%BB%E4%BB%8B%E7%BB%8D%208c0673b8caf24025a0a853c13f951ecb/Untitled%202.png)
+![a49f8ec0-bb14-4a62-8f45-50f4ec4ca7a5.png](/a49f8ec0-bb14-4a62-8f45-50f4ec4ca7a5.png)
 
  便于在windows平台操作jphide隐写的jpg文件。
 
 [GitHub - h3xx/jphs: jphide & seek steganography tools](https://github.com/h3xx/jphs)
 
-[jphs05.zip](%E5%B7%A5%E5%85%B7%E7%B1%BB%E4%BB%8B%E7%BB%8D%208c0673b8caf24025a0a853c13f951ecb/jphs05.zip)
 
 # imagemagick
 

@@ -2,7 +2,7 @@
 title: 历年Writeup
 description: 
 published: true
-date: 2022-07-17T03:10:48.023Z
+date: 2022-07-17T03:11:11.877Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -45,5 +45,3 @@ dateCreated: 2022-07-17T03:10:48.023Z
 
 - [SCTF 2021 题解](https://syclover.feishu.cn/docs/doccnmKCtL4ABewkf89aAJXIdmg#z0iZKP)
 {.links-list}
-
-# 2020年

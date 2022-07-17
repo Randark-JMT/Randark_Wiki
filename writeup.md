@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-07-17T04:27:20.700Z
+date: 2022-07-17T04:41:39.595Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -29,6 +29,13 @@ dateCreated: 2022-07-17T03:10:48.023Z
 
 ## Real World CTF
 - [r3kapig writeup](https://r3kapig.com/writeup/20220125-rwctf4/)
+{.links-list}
+
+## 鹏城杯
+- [鹏程杯 *WHT战队*](https://jishuin.proginn.com/p/763bfbd7c3d9)
+- [2022 鹏城杯 SU Writeup *SU*](https://mp.weixin.qq.com/s/nYRKJt3ZIUrfWHjU_c4P6g)
+- [鹏城杯 wp *小绿草信息安全科创实验室*](https://mp.weixin.qq.com/s/fjHY95EtO4BPRTTVn20Tfw)
+- [鹏城杯WriteUp｜Web、Misc方向 *山石网科*](https://mp.weixin.qq.com/s/h50R22YVNgD3mT7WOopTAQ)
 {.links-list}
 
 ## CTFshow 卷王杯

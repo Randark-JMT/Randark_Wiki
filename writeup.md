@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-07-17T04:41:39.595Z
+date: 2022-07-17T07:08:59.035Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -20,15 +20,15 @@ dateCreated: 2022-07-17T03:10:48.023Z
 ## 蓝帽杯
 - 2022-07-09
 - 所有赛题和wp均已搬运至NSSCTF
-- [第六届“蓝帽杯”初赛取证题目官方write up](https://mp.weixin.qq.com/s?__biz=Mzg3MjE1NjQ0NA==&mid=2247496554&idx=1&sn=a220208b592b378146dfb3b2fd4aa58c&chksm=cef12f19f986a60fdb91f4d8c5170bf748aea6089edc8fd4cb513ca737b06cf600800fb4af01&mpshare=1&srcid=0713AESpMCn5HcJyycFCb5Ot&sharer_sharetime=1657682768653&sharer_shareid=d2cee0ff5e392430c1620405f2d25c3d&from=groupmessage&scene=1&subscene=10000&clicktime=1657683122&enterid=1657683122&sessionid=0&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=6237348-zh_CN-zip&fasttmpl_flag=0&realreporttime=1657683122503&devicetype=android-31&version=2800183f&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AV7Afs0d%2BYsvh91QmIaRlus%3D&pass_ticket=xgnsXgoPZ0nHeSmn5wgVDXkIVDiXGQWtYYlrMNOvVcHhdJ45xT9imDxdwgsBmlv9&wx_header=3)
-- [【官方WP】第六届“蓝帽杯”初赛CTF题目解析](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493655&idx=1&sn=2eafc10949807487d993882220d05271&chksm=c1d9a84ef6ae2158dac0f1e00fc04efd4e8a0966e16aaaf7a1c00e46ff1fa97b5f574d051721&mpshare=1&scene=23&srcid=0713FFhRTme2jwTBSbUlN5zx&sharer_sharetime=1657706228412&sharer_shareid=0448df7bad9a24b90573e02890e727f8#rd)
+- [第六届“蓝帽杯”初赛取证题目官方write up *Official*](https://mp.weixin.qq.com/s?__biz=Mzg3MjE1NjQ0NA==&mid=2247496554&idx=1&sn=a220208b592b378146dfb3b2fd4aa58c&chksm=cef12f19f986a60fdb91f4d8c5170bf748aea6089edc8fd4cb513ca737b06cf600800fb4af01&mpshare=1&srcid=0713AESpMCn5HcJyycFCb5Ot&sharer_sharetime=1657682768653&sharer_shareid=d2cee0ff5e392430c1620405f2d25c3d&from=groupmessage&scene=1&subscene=10000&clicktime=1657683122&enterid=1657683122&sessionid=0&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=6237348-zh_CN-zip&fasttmpl_flag=0&realreporttime=1657683122503&devicetype=android-31&version=2800183f&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AV7Afs0d%2BYsvh91QmIaRlus%3D&pass_ticket=xgnsXgoPZ0nHeSmn5wgVDXkIVDiXGQWtYYlrMNOvVcHhdJ45xT9imDxdwgsBmlv9&wx_header=3)
+- [【官方WP】第六届“蓝帽杯”初赛CTF题目解析 *Official*](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247493655&idx=1&sn=2eafc10949807487d993882220d05271&chksm=c1d9a84ef6ae2158dac0f1e00fc04efd4e8a0966e16aaaf7a1c00e46ff1fa97b5f574d051721&mpshare=1&scene=23&srcid=0713FFhRTme2jwTBSbUlN5zx&sharer_sharetime=1657706228412&sharer_shareid=0448df7bad9a24b90573e02890e727f8#rd)
 - [2022第六届“蓝帽杯”全国大学生网络安全技能大赛Write Up *天权信安*](https://mp.weixin.qq.com/s?__biz=Mzg5NzY0OTQ2Mg==&mid=2247488257&idx=1&sn=32f9edaae87f4db1148d6f071deed0af&chksm=c06fcd58f718444e1cc2d3c45942315a3e643c07d388d54fcffd35d4a874f958d5db71d0b1d3&mpshare=1&scene=23&srcid=0713WBPHrPHlIgOi2nQGeu61&sharer_sharetime=1657674711309&sharer_shareid=b8e0623a29e4215eaa5cde1120c2db84#rd)
 - [2022蓝帽杯初赛writeup *Cyber Guard*](https://mp.weixin.qq.com/s?__biz=Mzg3MTMyMzcxOA==&mid=2247484312&idx=1&sn=68f02f00e6f0f4bfa71b8ac4678b74e2&chksm=ce8102b1f9f68ba787e3bda49490fa2f3b11dcae886e961cdb60c88284a6e3de2a26a1d15566&mpshare=1&scene=23&srcid=07102YPN8rdrwZbrusfEd7Rw&sharer_sharetime=1657385947593&sharer_shareid=4f511b430072598843991927a56b63a1#rd)
 - [第六届”蓝帽杯“全国大学生网络安全技能大赛WriteUp *EDI安全*](https://mp.weixin.qq.com/s?__biz=MzIzMTQ4NzE2Ng==&mid=2247492400&idx=1&sn=c150995c3d063061386884c9fa3b46fe&chksm=e8a1c0e1dfd649f7f8575ed0f784f485e4c0ce2b69fbf194ce33f8f928fe227e27a15a0236f0&mpshare=1&scene=23&srcid=0709EtZwrac9FkLXKr6F4oEf&sharer_sharetime=1657375804288&sharer_shareid=90cebd2c6c9801e0f4ba8c578fecd239#rd)
 {.links-list}
 
 ## Real World CTF
-- [r3kapig writeup](https://r3kapig.com/writeup/20220125-rwctf4/)
+- [RealWorld CTF 4th Writeup *r3kapig*](https://r3kapig.com/writeup/20220125-rwctf4/)
 {.links-list}
 
 ## 鹏城杯
@@ -40,19 +40,19 @@ dateCreated: 2022-07-17T03:10:48.023Z
 
 ## CTFshow 卷王杯
 - 2022-02-05
-- [CTFshow 卷王杯欢乐赛官方wp](https://qgieod1s9b.feishu.cn/docs/doccntELBOXQWXWrRgiWteZ0Xdh)
+- [CTFshow 卷王杯欢乐赛官方wp *Official*](https://qgieod1s9b.feishu.cn/docs/doccntELBOXQWXWrRgiWteZ0Xdh)
 {.links-list}
 
 ## CTFshow 愚人节欢乐赛
 - 2022-04-01
-- [CTFshow 愚人节欢乐赛官方wp](https://qgieod1s9b.feishu.cn/docs/doccnxS205koA7xoGv2ud6dBbdg)
-- [CTFshow 愚人节欢乐赛 部分WP_FW_Suica的博客-CSDN博客](https://blog.csdn.net/Nancy523/article/details/123920977?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22123920977%22%2C%22source%22%3A%22Nancy523%22%7D&ctrtid=MGiHm)
+- [CTFshow 愚人节欢乐赛官方wp *Official*](https://qgieod1s9b.feishu.cn/docs/doccnxS205koA7xoGv2ud6dBbdg)
+- [CTFshow 愚人节欢乐赛 部分WP_*Suica*](https://blog.csdn.net/Nancy523/article/details/123920977?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22123920977%22%2C%22source%22%3A%22Nancy523%22%7D&ctrtid=MGiHm)
 {.links-list}
 
 ## NISACTF 2022
 - 2022-03-25
 - [NISACTF2022 Official WP *请使用“规则”模式打开代理后再访问*](https://fjnusec.cn/2022/03/29/NISACTF2022-Official-WP/)
-- [NISA 2022 Writeup by WDLJT - 问谛居](https://www.wd-ljt.com/post/0329/799.html#nisactf-2022-sign-ezc)
+- [NISA 2022 Writeup *WDLJT*](https://www.wd-ljt.com/post/0329/799.html#nisactf-2022-sign-ezc)
 {.links-list}
 
 ## s0u1mates渗透
@@ -63,13 +63,19 @@ dateCreated: 2022-07-17T03:10:48.023Z
 
 ## 1CTF
 
-- [r3kapig writeup](https://r3kapig.com/writeup/20211122-n1ctf/#py)
+- [N1CTF 2021 Writeup *r3kapig*](https://r3kapig.com/writeup/20211122-n1ctf/)
 {.links-list}
 ## CTFshow 摆烂杯
 
-- [CTFshow 摆烂杯官方WP](https://qgieod1s9b.feishu.cn/docs/doccnC4EpMhSv1Ni6mbL7BQQdBc)
+- [CTFshow 摆烂杯官方WP *Official*](https://qgieod1s9b.feishu.cn/docs/doccnC4EpMhSv1Ni6mbL7BQQdBc)
 {.links-list}
 ## SCTF
 
-- [SCTF 2021 题解](https://syclover.feishu.cn/docs/doccnmKCtL4ABewkf89aAJXIdmg#z0iZKP)
+- [SCTF 2021 题解 *Syclover*](https://syclover.feishu.cn/docs/doccnmKCtL4ABewkf89aAJXIdmg#z0iZKP)
+{.links-list}
+
+## 蓝帽杯
+- [WP分享 | 蓝帽杯初赛精选题目解析 *春秋伽玛*](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247486314&idx=1&sn=d93e3628ceb0839035cc7309296a67a3&chksm=c1da4b33f6adc225c4696c0a51e3da644bc3cde7418828bbe1e13e21e5b38184ec6c0589ee36&mpshare=1&scene=23&srcid=0422LIY5OVvTMBfNbEonazqG&sharer_sharetime=1652952939797&sharer_shareid=d2cee0ff5e392430c1620405f2d25c3d#rd)
+- [Writeup | 蓝帽杯半决赛Misc-溯源取证 *春秋伽玛*](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247487438&idx=1&sn=42a3f3045aaa6df9d30f3cddb7b4d1ed&chksm=c1da4f97f6adc68151a422b08d673657da5f4eb72ad59d7753723e6f19c6a9fcac498215094b&mpshare=1&scene=23&srcid=0422FNBbWuXgy8gNFdc4H0Sb&sharer_sharetime=1652952951229&sharer_shareid=d2cee0ff5e392430c1620405f2d25c3d#rd)
+- [2021蓝帽杯总决赛wp *西域大都护府*](https://mp.weixin.qq.com/s?__biz=MzkwNTI4MDI2OQ==&mid=2247484008&idx=1&sn=ab42df7b5a000d79c14ac6fc5b41d07b&chksm=c0fb6c0af78ce51ca4b876def2a1cd22d4e39fa8d8649257da37903911321f76d03ffcbfe638&mpshare=1&scene=23&srcid=0520z1OHiHn76HDCiD2chyNM&sharer_sharetime=1653035536995&sharer_shareid=90cebd2c6c9801e0f4ba8c578fecd239#rd)
 {.links-list}

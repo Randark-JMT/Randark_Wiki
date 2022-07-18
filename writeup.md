@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-07-17T07:08:59.035Z
+date: 2022-07-18T00:18:18.873Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -47,6 +47,11 @@ dateCreated: 2022-07-17T03:10:48.023Z
 - 2022-04-01
 - [CTFshow 愚人节欢乐赛官方wp *Official*](https://qgieod1s9b.feishu.cn/docs/doccnxS205koA7xoGv2ud6dBbdg)
 - [CTFshow 愚人节欢乐赛 部分WP_*Suica*](https://blog.csdn.net/Nancy523/article/details/123920977?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22123920977%22%2C%22source%22%3A%22Nancy523%22%7D&ctrtid=MGiHm)
+{.links-list}
+
+## NICO冬令营
+- [NICO冬令营第一次比赛 *private*](/writeup/2022_NICO)
+- [web第一周优秀笔记.pdf](/web第一周优秀笔记.pdf)
 {.links-list}
 
 ## NISACTF 2022

@@ -2,7 +2,7 @@
 title: 图片分析
 description: 
 published: true
-date: 2022-07-17T01:59:51.949Z
+date: 2022-07-18T06:36:50.336Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-04T01:31:00.162Z
@@ -34,11 +34,9 @@ dateCreated: 2022-06-04T01:31:00.162Z
 - [图像隐写相关工具](/stego/image-analysis/tools)
 {.links-list}
 
-# 图像碎片
+# [图像碎片](/stego/image-analysis/fragments)
 
 在一些特殊情况下，可能会发现图片被划分成碎片，并且碎片之间发生错位，那么就需要寻找工具来寻找合适的方案来还原图像，或者提取对应的数据。
-- [图像碎片](/stego/image-analysis/fragments)
-{.links-list}
 
 # 文件附加类
 
@@ -56,6 +54,6 @@ dateCreated: 2022-06-04T01:31:00.162Z
 
 
 
-# 数字水印
+# [数字水印](/stego/image-analysis/waler_mark)
 
 随着版权意识的提高，以及反盗版追踪日益提高的需求，数字水印的概念也进入了CTF领域。数字水印具有难追踪，方法多样的特点，也就使得面对可能存在数字水印的图像时，需要灵活、多样地寻找合适的方法提取水印数据。

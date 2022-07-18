@@ -2,7 +2,7 @@
 title: 图片分析
 description: 
 published: true
-date: 2022-07-18T06:36:50.336Z
+date: 2022-07-18T06:37:08.017Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-04T01:31:00.162Z
@@ -28,11 +28,9 @@ dateCreated: 2022-06-04T01:31:00.162Z
 
 这类元数据你可以 `右键 --> 属性` 去查看, 也可以通过 `strings` 命令去查看，一般来说，一些隐藏的信息（奇怪的字符串）常常出现在Exif信息中或者尾部。
 
-# 工具介绍
+# [工具介绍](/stego/image-analysis/tools)
 
 虽然能自己写脚本是最好的，但是在合适的时候合理的应用相关工具，必定是事半功倍的。
-- [图像隐写相关工具](/stego/image-analysis/tools)
-{.links-list}
 
 # [图像碎片](/stego/image-analysis/fragments)
 

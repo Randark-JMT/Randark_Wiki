@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2022-07-20T11:56:39.010Z
+date: 2022-07-20T12:02:44.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T13:11:21.620Z
@@ -43,5 +43,5 @@ CTF 为团队赛，通常以三人为限，要想在比赛中取得胜利，就�
 - [杯装之诗](https://bardvendi.github.io)
 - [矢田雷姬](https://assert21.github.io)
 {.links-list}
-> 关于water为什么是yyds，可以参阅：[]()
+> 关于water为什么是yyds，可以参阅：[Water传](/home/introduction_water)
 {.is-info}

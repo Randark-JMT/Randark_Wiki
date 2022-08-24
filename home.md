@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2022-07-20T12:02:44.742Z
+date: 2022-07-22T13:11:06.565Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T13:11:21.620Z
@@ -14,7 +14,7 @@ CTF 为团队赛，通常以三人为限，要想在比赛中取得胜利，就�
 
 # 相关介绍和知识库
 - [CTF Wiki *开源的CTF维基知识库*](https://ctf-wiki.org)
-- [CTF-All-In-One *CTF 竞赛入门指南*](https://firmianay.gitbooks.io)
+- [CTF-All-In-One *CTF 竞赛入门指南*](https://firmianay.gitbooks.io/ctf-all-in-one/content/)
 - [计算机教育中缺失的一课 *计算机基础知识*](https://missing-semester-cn.github.io)
 - [CTFShow 大佬博客收集](https://shimo.im/docs/dPHgKrQXWp9wtqgr)
 {.links-list}
@@ -32,16 +32,3 @@ CTF 为团队赛，通常以三人为限，要想在比赛中取得胜利，就�
 - [三哈的博客-CTF刷题平台汇总 *剩下的基本都会出现在这里*](https://www.su-sanha.cn/archives/ctf%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%E6%B1%87%E6%80%BB)
 {.links-list}
 
-# 队内友链
-- [chenser *邵总好*](https://chenser.cn)
-- [bilala *发消息不在的话，肯定在打游戏*](https://bilala.gitee.io)
-- [water *water,yyds*](http://waterovo.top)
-- [deoplljj *pwn大爹*](https://deoplljj.com)
-- [Fhawkz *密码爹*](https://bmovo.github.io)
-- [一家言](https://onesworlds.com)
-- [青橘子](https://purekrismile.github.io) 
-- [杯装之诗](https://bardvendi.github.io)
-- [矢田雷姬](https://assert21.github.io)
-{.links-list}
-> 关于water为什么是yyds，可以参阅：[Water传](/home/introduction_water)
-{.is-info}

@@ -2,7 +2,7 @@
 title: tshark介绍
 description: 
 published: true
-date: 2022-09-13T15:10:59.225Z
+date: 2022-09-13T15:15:19.345Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T14:22:33.904Z
@@ -14,7 +14,7 @@ dateCreated: 2022-09-13T14:22:33.904Z
 ```shell
 sudo apt install tshark
 ```
-在Windows上，`tshark`包含在`wireshark`软件之中，安装`wireshark`的同时便会获取`tshark`。
+在Windows上，`tshark`包含在`wireshark`软件之中，安装`wireshark`的同时便会获取`tshark`。其地址位于 `%programfiles%/wireshark/tshark.exe`。
 
 # tshark的基本语法
 通过`tshark`的`-h`参数，可以看到`tshark`的使用文档，但是实际做题中用不到那么多的参数，最常见的还是

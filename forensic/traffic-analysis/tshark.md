@@ -2,7 +2,7 @@
 title: tshark介绍
 description: 
 published: true
-date: 2022-09-13T14:49:52.850Z
+date: 2022-09-13T15:10:59.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T14:22:33.904Z
@@ -27,7 +27,7 @@ sudo apt install tshark
 
 # -T json
 通过Linux的管道符，将输出的json数据写入文件中，便可以对json数据进行分析
-（以下示例基于————TODO——————）
+（以下示例基于[076ac4c9-0842-4d9e-8170-11ed07cbd03f.pcapng](/076ac4c9-0842-4d9e-8170-11ed07cbd03f.pcapng)）
 ```shell
 tshark -r tesst.pcapng -T json > out.json
 ```
@@ -193,6 +193,41 @@ tshark -r ***.pcapng -Y "(ip.src == 127.0.0.1) && (ip.dst == 127.0.0.1)"
 ```
 由此可见，`-Y`参数是支持逻辑运算符的，所以筛选的姿势是可以灵活多变的。
 支持的逻辑符有以下：
-  - `&&`  且选中
+  - `&&` , `and` 且选中
   - `!`  非选中
-  - `||` 或选中
+  - `||` , `or` 或选中
+# 控制导出数据的格式
+`-T`参数可以控制数据的导出格式，帮助文档是这么写的：
+```text
+-T pdml|ps|psml|json|jsonraw|ek|tabs|text|fields|?
+		format of text output (def: text)
+```
+虽说支持的导出格式很多，但是最常用的一是fields，一个就是json。对于导出目标格式为json格式的数据，直接`-T json`就可以了，到处效果就如上面所示。如果要提取一些格式的数据，比如所有的数据包的源地址，则可以`-T fields -e ip.src`。由此可见，对于一个标志，比如`ip.src`，表示为包的源地址，用`-Y`参数，就是作为筛选器应用，而用`-T fields -e`参数，就是提取所有包的这个标志的数据。例如：
+```shell
+tshark -r ***.pcapng -T fields -e frame.time
+Sep 13, 2022 22:20:54.811933000 CST
+Sep 13, 2022 22:20:54.811949000 CST
+Sep 13, 2022 22:20:54.827986000 CST
+Sep 13, 2022 22:20:54.827991000 CST
+Sep 13, 2022 22:20:54.828013000 CST
+Sep 13, 2022 22:20:55.084367000 CST
+Sep 13, 2022 22:20:55.084372000 CST
+Sep 13, 2022 22:20:55.084397000 CST
+Sep 13, 2022 22:20:55.356740000 CST
+Sep 13, 2022 22:20:55.356745000 CST
+Sep 13, 2022 22:20:55.356772000 CST
+Sep 13, 2022 22:20:55.627948000 CST
+Sep 13, 2022 22:20:55.627956000 CST
+Sep 13, 2022 22:20:55.627981000 CST
+Sep 13, 2022 22:20:55.628487000 CST
+Sep 13, 2022 22:20:55.628490000 CST
+Sep 13, 2022 22:20:55.628506000 CST
+......
+```
+
+
+---
+- **参考资料**
+- [tshark在流量分析中的绝佳应用（超详细）](https://blog.csdn.net/weixin_44288604/article/details/123807294)
+- [tshark 使用技巧[通俗易懂]](https://cloud.tencent.com/developer/article/2007265)
+{.links-list}

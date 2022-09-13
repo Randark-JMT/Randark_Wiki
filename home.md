@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2022-07-22T13:11:06.565Z
+date: 2022-09-13T15:18:58.116Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T13:11:21.620Z
@@ -11,6 +11,10 @@ dateCreated: 2022-06-03T13:11:21.620Z
 CTF（Capture The Flag）中文一般译作夺旗赛，在网络安全领域中指的是网络安全技术人员之间进行技术竞技的一种比赛形式。CTF起源于1996年DEFCON全球黑客大会，以代替之前黑客们通过互相发起真实攻击进行技术比拼的方式。发展至今，已经成为全球范围网络安全圈流行的竞赛形式，2013年全球举办了超过五十场国际性CTF赛事。而DEFCON作为CTF赛制的发源地，DEFCON CTF也成为了目前全球最高技术水平和影响力的CTF竞赛，类似于CTF赛场中的“世界杯”。
 
 CTF 为团队赛，通常以三人为限，要想在比赛中取得胜利，就要求团队中每个人在各种类别的题目中至少精通一类，三人优势互补，取得团队的胜利。同时，准备和参与 CTF 比赛是一种有效将计算机科学的离散面、聚焦于计算机安全领域的方法。
+# TODO
+- [tshark](/forensic/traffic-analysis/tshark)
+- [home](/forensic/traffic-analysis/home)
+{.links-list}
 
 # 相关介绍和知识库
 - [CTF Wiki *开源的CTF维基知识库*](https://ctf-wiki.org)

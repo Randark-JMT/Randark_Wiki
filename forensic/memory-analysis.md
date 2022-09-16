@@ -2,7 +2,7 @@
 title: 内存取证
 description: 
 published: true
-date: 2022-07-17T02:53:10.353Z
+date: 2022-09-16T11:16:41.866Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T01:28:40.096Z
@@ -24,8 +24,17 @@ dateCreated: 2022-07-11T01:28:40.096Z
 
 # 内存镜像分析基本流程
 ## 确定平台和内核版本
+平台和架构的信息可以通过直接`strings`指令筛选就可以得出，也可以利用`volatility`中的`imageinfo`（vol2）和`windows.info || linux.info || mac.info`（vol3）来确定。只有确定了内存镜像的架构信息，才可以使用正确的pdb数据文件确定各个数据量的正确偏移，才能正确的分析数据。
+
 ## 初步信息收集
+最常见的四件套就是`pslist`,`filescan`和`cmsscan || cmdline`以及`iehistory`。这四个命令可以查看进程列表，内存中的文件映射，命令执行记录和文件访问历史（windows）
+
 ## 常见的敏感进程
+### varacrypt
+### winrar
+### 7zip
+### winlogin
+
 
 # 内存取证的出题姿势
 这一块其实没必要深究，因为如果手头有商业性的取证框架的话的话，基本是可以梭哈的，但是为了一般情景，还是有必要探究常见的内存取证的姿势，以及相对应的出题方式，学会手撸出flag。

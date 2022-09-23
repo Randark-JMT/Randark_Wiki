@@ -2,7 +2,7 @@
 title: 2021年之前 大赛wp
 description: 
 published: true
-date: 2022-09-23T12:48:54.584Z
+date: 2022-09-23T15:08:46.970Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-23T12:48:54.584Z
@@ -26,6 +26,10 @@ dateCreated: 2022-09-23T12:48:54.584Z
 ## SCTF
 
 - [SCTF 2021 题解 *Syclover*](https://syclover.feishu.cn/docs/doccnmKCtL4ABewkf89aAJXIdmg#z0iZKP)
+{.links-list}
+
+## 强网杯
+- [天命](https://mp.weixin.qq.com/s/GEvkY9zCHNs8k6yaNrGYjQ)
 {.links-list}
 
 ## 蓝帽杯

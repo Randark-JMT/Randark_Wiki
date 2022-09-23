@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-23T15:04:45.473Z
+date: 2022-09-23T15:08:12.106Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -80,7 +80,6 @@ dateCreated: 2022-07-17T03:10:48.023Z
 - [n03tAck team](https://mp.weixin.qq.com/s/V1rJ6eiZu_UlxvyhC1VYSQ)
 - [WHT战队](https://mp.weixin.qq.com/s/JRt_hLgzxL1RNFnxdsfsKA)
 - [EDI](https://mp.weixin.qq.com/s/mth1l1PsjgoEEl4dUEBjfA)
-- [天命](https://mp.weixin.qq.com/s/GEvkY9zCHNs8k6yaNrGYjQ)
 - [强网杯-Qualifier-2022 *ssst0n3*](https://mp.weixin.qq.com/s/Xs1ef-BZAiavrC9dI1fINA)
 - [NEURON - Reverse](https://mp.weixin.qq.com/s/xg5pS4dM1nbzzYcPWPjFmg)
 - [NEURON - PWN & Crypto](https://mp.weixin.qq.com/s/4IlfLYuqnkYORbaEbOEL1g)

@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-23T12:12:16.015Z
+date: 2022-09-23T12:25:29.657Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 
 # 2022年
 
-## 蓝帽杯-决赛
+## 蓝帽杯 决赛
 {.links-list}
 
 ## MTCTF
@@ -19,7 +19,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 ## 网信柏鹭杯
 {.links-list}
 
-## 强网杯-青少年组
+## 强网杯 青少年组
 {.links-list}
 
 ## 羊城杯
@@ -48,7 +48,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 - [EDI](https://mp.weixin.qq.com/s/meHjLDbOMt6DFffUQGvcSQ)
 {.links-list}
 
-## 蓝帽杯半决赛
+## 蓝帽杯 半决赛
 - 2022-08-04
 - [盘古石 - Forensic](https://mp.weixin.qq.com/s/b133hsC1ZR02ML6efy2tOg)
 - [i春秋 - CTF](https://mp.weixin.qq.com/s/PQKcr6dlwy5FTiC1JzzIPw)
@@ -74,7 +74,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 - [DSCTF By Nu1L](/dsctf_writeup_by_nu1l.pdf)
 {.links-list}
 
-## 蓝帽杯
+## 蓝帽杯 初赛
 - 2022-07-09
 - 所有赛题和wp均已搬运至NSSCTF
 - [第六届“蓝帽杯”初赛取证题目官方write up *Official*](https://mp.weixin.qq.com/s?__biz=Mzg3MjE1NjQ0NA==&mid=2247496554&idx=1&sn=a220208b592b378146dfb3b2fd4aa58c&chksm=cef12f19f986a60fdb91f4d8c5170bf748aea6089edc8fd4cb513ca737b06cf600800fb4af01&mpshare=1&srcid=0713AESpMCn5HcJyycFCb5Ot&sharer_sharetime=1657682768653&sharer_shareid=d2cee0ff5e392430c1620405f2d25c3d&from=groupmessage&scene=1&subscene=10000&clicktime=1657683122&enterid=1657683122&sessionid=0&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=6237348-zh_CN-zip&fasttmpl_flag=0&realreporttime=1657683122503&devicetype=android-31&version=2800183f&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AV7Afs0d%2BYsvh91QmIaRlus%3D&pass_ticket=xgnsXgoPZ0nHeSmn5wgVDXkIVDiXGQWtYYlrMNOvVcHhdJ45xT9imDxdwgsBmlv9&wx_header=3)

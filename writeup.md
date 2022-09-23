@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-23T15:08:12.106Z
+date: 2022-09-23T15:17:02.711Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -78,6 +78,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 ## 强网杯
 - 2022-07-22
 - [n03tAck team](https://mp.weixin.qq.com/s/V1rJ6eiZu_UlxvyhC1VYSQ)
+- [Nu1L](/qwb_nu1l.pdf)
 - [WHT战队](https://mp.weixin.qq.com/s/JRt_hLgzxL1RNFnxdsfsKA)
 - [EDI](https://mp.weixin.qq.com/s/mth1l1PsjgoEEl4dUEBjfA)
 - [强网杯-Qualifier-2022 *ssst0n3*](https://mp.weixin.qq.com/s/Xs1ef-BZAiavrC9dI1fINA)

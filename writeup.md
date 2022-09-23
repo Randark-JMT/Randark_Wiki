@@ -2,12 +2,14 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-23T12:25:29.657Z
+date: 2022-09-23T12:46:43.024Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
 ---
 
+
+## **相关附件在[FJNU-NISA/CTF_Archive](https://github.com/FJNU-NISA/CTF_Archive)有存档**
 # 2022年
 
 ## 蓝帽杯 决赛
@@ -38,6 +40,8 @@ dateCreated: 2022-07-17T03:10:48.023Z
 {.links-list}
 
 ## WMCTF
+- 2022-08-20
+- [Official Archice](https://github.com/wm-team/WMCTF2022)
 {.links-list}
 
 ## 巅峰极客

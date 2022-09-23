@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-23T12:50:19.139Z
+date: 2022-09-23T12:50:38.212Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -125,6 +125,6 @@ dateCreated: 2022-07-17T03:10:48.023Z
 - [初学渗透测试 - s0u1mates安全](https://mp.weixin.qq.com/s?__biz=MzkxMzMyMjgzNg==&mid=2247483713&idx=1&sn=96882c34ff2bfb54baa369d66e4ae81a&chksm=c17e277af609ae6c4f986e7ed166a669557140080daba730cbb2a1dc0516df3382715e015b72&mpshare=1&scene=22&srcid=0404klp9zdObaNbkD52gHSUE&sharer_sharetime=1649050474860&sharer_shareid=2a84f26defae9c9196ca0b80c2a8b48e#rd)
 {.links-list}
 
-## 历年收集
+# 历年收集
 - [2021年之前 大赛wp](/writeup/before_2021)
 {.links-list}

@@ -2,13 +2,15 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-23T15:17:02.711Z
+date: 2022-09-24T13:26:38.730Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
 ---
 
 ## **相关附件在 [FJNU-NISA/CTF_Archive](https://github.com/FJNU-NISA/CTF_Archive) 有存档**
+
+## **近期赛事咨询请移步到三哈姐的网站：[近期赛事-SanhaCTF](https://www.su-sanha.cn/events/)**
 
 # 2022年
 

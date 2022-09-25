@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2022-09-13T15:19:19.053Z
+date: 2022-09-25T00:40:55.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T13:11:21.620Z
@@ -33,6 +33,6 @@ CTF 为团队赛，通常以三人为限，要想在比赛中取得胜利，就�
 - [Pwnthebox *安全交流社区*](https://www.pwnthebox.com)
 - [CTFHub *ChaMd5战队，有金币机制*](https://www.ctfhub.com)
 - [Bugku *社区型，会定期举办AWD比赛*](https://ctf.bugku.com)
-- [三哈的博客-CTF刷题平台汇总 *剩下的基本都会出现在这里*](https://www.su-sanha.cn/archives/ctf%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%E6%B1%87%E6%80%BB)
+- [三哈的博客-CTF刷题平台汇总 *剩下的基本都会出现在这里*](https://www.su-sanha.cn/platforms/)
 {.links-list}
 

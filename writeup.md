@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-10-02T23:56:58.477Z
+date: 2022-10-02T23:58:27.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -15,7 +15,7 @@ dateCreated: 2022-07-17T03:10:48.023Z
 # 2022年
 
 ## ByteCTF
-- [字节官方wp](https://tu41uz9p81.feishu.cn/docs/doccnupUMIWO6ldbjiVQcNO4rqe)
+- [ByteCTF 2022 官方writeup](https://bytedance.feishu.cn/docx/doxcnWmtkIItrGokckfo1puBtCh)
 {.links-list}
 
 ## 蓝帽杯 决赛

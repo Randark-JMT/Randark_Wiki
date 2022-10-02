@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-09-24T13:26:46.717Z
+date: 2022-10-02T23:56:58.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -13,6 +13,10 @@ dateCreated: 2022-07-17T03:10:48.023Z
 ## **近期赛事资讯请移步到三哈姐的网站：[近期赛事-SanhaCTF](https://www.su-sanha.cn/events/)**
 
 # 2022年
+
+## ByteCTF
+- [字节官方wp](https://tu41uz9p81.feishu.cn/docs/doccnupUMIWO6ldbjiVQcNO4rqe)
+{.links-list}
 
 ## 蓝帽杯 决赛
 {.links-list}

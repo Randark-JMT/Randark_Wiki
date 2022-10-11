@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2022-10-11T07:26:10.948Z
+date: 2022-10-11T07:27:58.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T13:11:21.620Z
@@ -15,7 +15,6 @@ CTF 为团队赛，通常以三人为限，要想在比赛中取得胜利，就�
 - [tshark](/forensic/traffic-analysis/tshark)
 - [home](/forensic/traffic-analysis)
 {.links-list}
-
 
 # 相关介绍和知识库
 - [CTF Wiki *开源的CTF维基知识库*](https://ctf-wiki.org)

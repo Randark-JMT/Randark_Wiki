@@ -2,7 +2,7 @@
 title: 获取Volatility
 description: 
 published: true
-date: 2022-10-11T11:29:15.558Z
+date: 2022-10-11T11:30:29.925Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-12T13:04:06.045Z
@@ -58,4 +58,7 @@ pip 20.3.4 from /usr/local/lib/python2.7/dist-packages/pip (python 2.7)
 {.links-info}
 
 # 通过源码安装Volatility2
+不推荐
 # 通过源码安装Volatility3
+
+一般不建议直接通过源码来安装（较为繁琐），而是直接通过`pip`来安装`Volatility3`

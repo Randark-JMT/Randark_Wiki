@@ -2,7 +2,7 @@
 title: 压缩文件分析
 description: 
 published: true
-date: 2022-07-20T12:18:33.588Z
+date: 2022-10-11T07:23:00.663Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-19T07:19:04.363Z
@@ -206,6 +206,8 @@ this_it_a_password
 this_??_a_pa?????d
 
 那么问号中的字符就需要选手枚举破解。
+##### 3. 字典爆破
+原理与暴力破解相同，只不过是用弱密码字典进行枚举破解，弱密码字典可以去GitHub上寻找。
 
 ## 0x03 CRC32爆破
 
@@ -364,7 +366,6 @@ def CrackZip(f):
 with open('out.txt', 'w') as f_:
     CrackZip(f_)
 ```
-
 
 
 

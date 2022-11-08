@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2022-10-03T00:03:52.450Z
+date: 2022-11-08T12:54:59.374Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -13,6 +13,23 @@ dateCreated: 2022-07-17T03:10:48.023Z
 ## **近期赛事资讯请移步到三哈姐的网站：[近期赛事-SanhaCTF](https://www.su-sanha.cn/events/)**
 
 # 2022年
+
+## UUCTF
+- [Misc *By 王八七七*](https://blog.csdn.net/weixin_52365980/article/details/127717289)
+- [Crypto *By Shumu*](https://blog.csdn.net/weixin_52365980/article/details/127717289)
+{.links-list}
+
+## HNCTF
+- 以下为官方wp
+- [Pwn](https://hxz3zo0taq.feishu.cn/docx/doxcn7rfTxf8pk2UhNexjMOLQhb)
+- [Reverse](https://dqgom7v7dl.feishu.cn/docx/doxcnFESSimJ4UEvZK9ja8ZnArg)
+- [Web](https://dqgom7v7dl.feishu.cn/docx/doxcnfAleQyWvxtaviJQUyfedGd)
+- [Crypto](https://hxz3zo0taq.feishu.cn/docx/doxcnN6eRa9M02PQXrBr2dZ0pWg)
+- [Misc](https://nbkixd94d9.feishu.cn/docx/UFbrdq4iVoas5Ox365Wcp9HcnCh)
+- reverse的weird_vm和jail方向直接问crazyman空白师傅
+- [PyJail - python沙箱逃逸探究（HNCTF题解） By ZM.J *信春哥，得永生*](https://zhuanlan.zhihu.com/p/578966149)
+
+{.links-list}
 
 ## ByteCTF
 - [ByteCTF 2022 官方writeup](https://bytedance.feishu.cn/docx/doxcnWmtkIItrGokckfo1puBtCh)

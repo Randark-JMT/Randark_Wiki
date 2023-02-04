@@ -2,15 +2,13 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2023-02-04T11:54:17.201Z
+date: 2023-02-04T12:02:45.155Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
 ---
 
-## **相关附件在 [CTF_Archive](https://github.com/FJNU-NISA/CTF_Archive) 有存档**
-
-## **近期赛事资讯请移步到三哈姐的网站：[近期赛事-SanhaCTF](https://www.su-sanha.cn/events/)**
+## **相关附件在 [Randark-JMT/CTF_Archive](https://github.com/Randark-JMT/CTF_Archive)有存档，题目docker镜像在[CTF-Archives](https://github.com/CTF-Archives)有构建好的。近期赛事资讯请移步到三哈的网站：[近期赛事-SanhaCTF](https://www.su-sanha.cn/events/)**
 
 # 2022年
 ## 西湖论剑大赛

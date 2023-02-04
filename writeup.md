@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2023-02-04T11:48:54.384Z
+date: 2023-02-04T11:54:17.201Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -15,6 +15,9 @@ dateCreated: 2022-07-17T03:10:48.023Z
 # 2022年
 ## 西湖论剑大赛
 - 这里持续更新非官方wp，直到官方wp更新
+- [2023西湖论剑wp By HashRun](https://mp.weixin.qq.com/s/b-55CP7zm-TeyZJI3stU3g)
+- [2022西湖论剑Torchwood战队writeup ](https://mp.weixin.qq.com/s/FIebbqabP4rdNbddj5y2-A)
+- [2023西湖论剑web-writeup题解wp By 雾晓安全](https://mp.weixin.qq.com/s/NjjXKyXimtAEnKIkdPXHxA)
 - [X1cT34m西湖论剑初赛wp](https://mp.weixin.qq.com/s?__biz=Mzg3NDUzMTU5NQ==&mid=2247484391&idx=1&sn=9b6110dfd984f0a4056d06077838330f)
 - [2023XHLJ-RE  By Lightu](http://lu1u.bxsteam.tk/2023/02/03/2023XHLJ-RE/)
 - [2022西湖论剑 wp by 圣地亚哥皮蛋-山警](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450784784&idx=1&sn=237cbabe29d93151d9d83d0eb5286146&chksm=b104f33786737a217cbccdc322cffb2aed28dd8d1048718dea531ff99458f4aca6921f81b036&mpshare=1&scene=23&srcid=0204EzooeQMGEboDEAyo2L2G&sharer_sharetime=1675495988199&sharer_shareid=4c7f5e21d9195990be9cc01a3b73900f#rd)

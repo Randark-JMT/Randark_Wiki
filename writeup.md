@@ -2,7 +2,7 @@
 title: Writeup 收集
 description: 
 published: true
-date: 2023-05-29T06:35:12.335Z
+date: 2023-05-29T06:39:54.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T03:10:48.023Z
@@ -16,6 +16,11 @@ dateCreated: 2022-07-17T03:10:48.023Z
 ## CISCN
 - [ciscn2023初赛 web writeUp *Pysnow*](https://pysnow.cn/archives/713/)
 - [2023 CISCN 初赛 Writeup *By Xp0int* ](https://xp0int.top/posts/2023/05/28/2023-CISCN-%E5%88%9D%E8%B5%9B-Writeup-By-Xp0int)
+- [CISCN 2023 WP *yulate*](https://mp.weixin.qq.com/s/a1BemOrlZuoDyRjuPbo4wQ)
+- [2023第十六届全国大学生信息安全竞赛(CISCN) 初赛 WriteUp *F61d*](https://mp.weixin.qq.com/s/wABVltWsiOqu8HMgszSvHQ)
+- [CISCN2023 Quals *Z00M_Team*](https://ypctf.vercel.app/ciscn2023-quals)
+- [CISCN初赛 by NotEnoughEffort *狗and猫*](https://fushuling.com/index.php/2023/05/28/ciscn%E5%88%9D%E8%B5%9B-by-notenougheffort/)
+
 
 {.links-list}
 
